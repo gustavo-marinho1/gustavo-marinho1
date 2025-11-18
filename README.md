@@ -45,30 +45,6 @@ Hi, I'm Gustavo!
 </p>
 </br>
 
-
-## <a href="https://github.com/Gustavo-Marinho0"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-<summary><b>⚡ Gustavo's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Gustavo-Marinho0">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Marinho0&show_icons=true" alt="Gustavo">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Marinho0" alt="Gustavo">
-	</a>
-	<br/>
-</p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Gustavo-Marinho0">
-		<img src="https://activity-graph.herokuapp.com/graph?username=Gustavo-Marinho0&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Gustavo">
-	</a>
-</p>
-<br/>
--->
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
