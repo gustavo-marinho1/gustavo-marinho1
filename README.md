@@ -1,12 +1,12 @@
 <h1 align="center">
 Hi, I'm Gustavo!
-	<a href="https://github.com/Gustavo-Marinho0" target="_self">
+	<a href="https://github.com/gustavo-marinho1" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <br/>
 <p align="center">
-	<a href="https://github.com/Gustavo-Marinho0">
+	<a href="https://github.com/gustavo-marinho1">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Freelancer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
@@ -25,7 +25,7 @@ Hi, I'm Gustavo!
 <p align="center">
 	<a href="mailto:gustavobarrosomarinho@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/gustavo-marinho-frontend-react/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Gustavo-Marinho0"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/gustavo-marinho1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -33,8 +33,8 @@ Hi, I'm Gustavo!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Gustavo-Marinho0"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Gustavo-Marinho0"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230095ff.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/gustavo-marinho1"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/gustavo-marinho1"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230095ff.svg?logo=typescript&logoColor=white"></a>
 
 
 ### 💻 Software and Tools
@@ -49,7 +49,7 @@ Hi, I'm Gustavo!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Gustavo-Marinho0">
+	<a href="https://github.com/gustavo-marinho1">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Marinho0&langs_count=8&layout=compact" alt="Gustavo">
 	</a>
 	<br/>
@@ -60,6 +60,6 @@ Hi, I'm Gustavo!
 
 ------
 
-[Gustavo](https://github.com/Gustavo-Marinho0)
+[Gustavo](https://github.com/gustavo-marinho1)
 
-Last Edited on: 17/11/2025
+Last Edited on: 18/12/2025
