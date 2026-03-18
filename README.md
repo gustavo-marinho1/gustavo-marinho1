@@ -14,10 +14,9 @@ Hi, I'm Gustavo!
 <hr>
 
 <pre>
-💻 I am a Front-End Developer
-🔭 Working with React and Typescript
-🌟 Main language: JavaScript
-🚩 Interested in Full Stack Development
+💻 I am a Fullstack Developer
+🔭 Working with Typescript, React and Node
+🌟 Main language: JavaScript|Typescript
 </pre>
 <hr>
 
@@ -44,19 +43,6 @@ Hi, I'm Gustavo!
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
-
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-
-<p align="center">
-	<a href="https://github.com/gustavo-marinho1">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Marinho0&langs_count=8&layout=compact" alt="Gustavo">
-	</a>
-	<br/>
-<br/>
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-</p>
-<br/>
 
 ------
 
