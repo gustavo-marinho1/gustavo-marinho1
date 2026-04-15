@@ -14,7 +14,7 @@ Hi, I'm Gustavo!
 <hr>
 
 <pre>
-💻 I am a Fullstack Developer
+💻 I am a Frontend Developer
 🔭 Working with Typescript, React and Node
 🌟 Main language: JavaScript|Typescript
 </pre>
